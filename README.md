@@ -23,7 +23,7 @@ Bu proje, C dilinde standart `printf` fonksiyonunun özelleştirilmiş bir versi
 1.  Projeyi klonlayın:
 
     ```bash
-    git clone [https://github.com/emirhan-hanifi/printf.git](https://github.com/emirhan-hanifi/printf.git)
+    git clone git@github.com:ehabesdev/printf.git
     ```
 
 2.  Projeye gidin:
