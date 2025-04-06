@@ -13,10 +13,6 @@ Bu proje, C dilinde standart `printf` fonksiyonunun özelleştirilmiş bir versi
     *   `%x`: İşaretsiz onaltılık (hexadecimal) tam sayıyı küçük harflerle yazdırır.
     *   `%X`: İşaretsiz onaltılık tam sayıyı büyük harflerle yazdırır.
     *   `%%`: Yüzde işareti (%) yazdırır.
-*   **Bonuslar:**
-    *   Basit ve kullanımı kolay arayüz.
-    *   Hafıza yönetimi konusunda dikkatli.
-    *   Standart `printf` fonksiyonuna göre daha özelleştirilebilir.
 
 ## Kurulum
 
